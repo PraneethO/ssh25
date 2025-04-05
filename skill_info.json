@@ -1,0 +1,470 @@
+{
+    "EvoSkillTree": {
+        "What is EvoSkillTree?": "EvoSkillTree presents a unique and interactive way to evolve your calisthenics journey. Imagine calisthenics as a vast skill tree, with each leaf representing a specific skill and branches connecting more advanced variations to those leaves. EvoSkillTree brings this vision to life by creating a visually appealing skill tree which grows with more and more advanced techniques as you master each skill.",
+        "Branching Out": "Each skill you mark as completed opens up multiple branches of possibilities for the next steps of your calisthenics journey, presenting you with more and more challenges to overcome. Discovering these new paths will keep you engaged, motivated, and hungry for more as you constantly push your boundaries with EvoSkillTree.",
+        "Comprehensive Skill Info": "In order to help you conquer each skill, clicking a skill presents a detailed info page on this sidebar with a description of the skill, step by step guides, video tutorials, and helpful progression exercises. No matter how hard a skill may seem, our comprehensive resources will guide you every step of the way.",
+        "How to Start EvoSkillTree": "Start by clicking the Calisthenics circle in the center of the screen to start your journey!",
+        "About the Creator": "This website was created by Joseph Widjaja, a junior from North Allegheny High School. Joseph has been programming for as long as he can remember but he is also a calisthenics enthusiast who has been teaching himself calisthenics for a little more than a year. Combining his love for both calisthenics and programming, Joseph presents EvoSkillTree. "
+    },
+    "Calisthenics": {
+        "What is Calisthenics?": "According to Wikipedia, calisthenics is a form of strength training that consists of a variety of movements that utilize nothing but bodyweight.",
+        "Does Calisthenics Work?": "You may be wondering, \"How do you become stronger if you can only use your bodyweight?\" By experimenting with more advanced variations of each skill, calisthenics allows you to put more and more weight and strain on multiple muscle groups, constantly strengthening your body.",
+        "Why Not Weightlifting?": "As opposed to calisthenic exercises which utilize multiple muscle groups at once, weightlifting exercises often only work a very limited number of muscles per exercise. In addition, calisthenic exercises are also much less dangerous and cause far fewer injuries than exercises that use external weight.",
+        "How Do I Start?": "Click the start button below to begin your calisthenics journey! Everybody starts somewhere, so just have fun, work hard, and enjoy your way through the skill tree!"
+    },
+    "Push": {
+        "What Are Push Skills?": "Push skills refer to exercises which primarily involve, well pushing movements. These movements often involve your hands pushing either part of or your entire body upwards off the ground. These exercises will primarily work your upper body, more specifically shoulders, triceps, scapula stabilizing muscles, chest, and core.",
+        "Push Skill Warm Ups": "It is very important to warm up for any calisthenics skill to both prevent injury and to progress faster. For push skills in particular, because these skills often involve putting pressure on your wrists, doing wrist stretches/warm ups is very necessary. Here are some stretches to get you started: \n\n 1. wrist leans \n 2. wrist clocks \n 3. hand/fist rotations \n\n Check out the videos section for videos of other push skill warm ups.",
+        "Videos": "Here are some links to helpful video tutorials of general push skill warm ups: \n\n yvguo Wrist Warm Up (until 6:37 for push): \n https://youtu.be/5edL1aEBe4Y \n\n Tom Merrick Wrist Warm Up: \n https://youtu.be/0VEOm0v5V6Y"
+    },
+    "Pull": {
+        "What Are Pull Skills?": "Pull skills refer to exercises which primarily involve, well pulling movements. These movements often involve your hands on a bar to pull your body upwards toward or above the bar. These exercises will primarily work your upper body, more specifically biceps, tricps, lats, rear delts, scapula, and core.",
+        "Pull Skill Warm Ups": "It is very important to warm up for any calisthenics skill to both prevent injury and to progress faster. For pull skills in particular, because these skills often involve putting a lot of pressure on your shoulders, doing shoulder stretches/warm ups is very necessary. Here are some exercises to get you started: \n\n 1. hanging scapular retractions \n 2. active hangs \n 3. arm/shoulder circles \n\n Check out the videos section for videos of other pull skill warm ups.",
+        "Videos": "Here are some links to helpful video tutorials of general pull skill warm ups: \n\n StrengthRx Shoulder/Bar Warm Up: https://youtu.be/B2t-7u_Te24"
+    },
+    "Legs": {
+        "What Are Legs Skills?": "Legs skills refer to skill which primarily involve, well your legs. These movements involve 1 or 2 of your feet on the ground pushing the rest of your body upwards. These exercises will primiarly work your glutes, hamstrings, hip flexors, and quads.",
+        "Leg Skill Warm Ups": "It is very important to warm up for any calisthenics skill to both prevent injury and to progress faster. For legs skills in particular, because these skills often involve putting pressure on your knees (one of your weakest joints), doing leg/knee stretches/warm ups is very necessary. Here are some exercises to get you started: \n\n 1. swinging leg raises \n 2. knee raises \n 3. hip openers \n\n Check out the videos section for videos of other leg/knee warm ups.",
+        "Videos": "Here are some links to helpful video tutorials of general leg/knee warm ups: \n\n Brendan Jones Leg Warm Up: \n https://youtu.be/GPnOE4lY2-E \n\n Athlean-X Knee Warm Up: \n https://youtu.be/g5vOGrtHT9Y"
+    },
+    "Push-Up": {
+        "Prerequisites": "Here are some prerequisite skills we recommend you already can complete with relative ease before you attempt this skill: \n\n 1. Low Plank (elbows on floor): A 45 second to a minute hold is recommended to ensure your core is strong enough for the movement \n\n 2. High Plank (only hands on floor, arms straight): A 30-45 second hold is recommended to ensure your shoulders are strong enough to support your weight in the push up while still maintaining core engagement to keep your body straight \n\n Once you can complete these prerequisites, go on to the progressions section to learn the movement! Good Luck!",
+        "How to Do the Skill": "1. Start in a high plank position with your hands directly below your shoulders, elbows completely locked out \n\n 2. Lower your body slowly down to an inch off the ground \n\n 3. Press your body back up to the high plank position, finishing with elbows locked out \n\n Throughout the entire movement, your elbows should be in (not flared outward), your core engaged, and your body remaining in a completely straight line from shoulders to toes.",
+        "Progressions": "These progressions will be listed from easiest to hardest. \n\n 1. Wall Push-Up: Perform a standard push up (as described in the previous section) but with your hands on a wall and your feet resting on the ground 2-3 feet away from the wall. \n\n 2. Incline Push-Up: Perform a standard push up but with your hands on a horizontal surface 2-3 feet above the ground (such as a chair or small table) \n\n 3. Knee Push-Up: Perform a standard push up but with your knees on the ground instead of your feet \n\n In all of these progressions, many beginners make the mistake of arching their back when pushing back up to make the movement easier. Always keep your body completely straight from your hands to your toes (or your knees for the knee push-up) by keeping your core engaged and scapula protracted.",
+        "Video Tutorials": "Here are some links to helpful video tutorials of the push-up: \n\n Hybrid Calisthenics Tutorial: \n https://youtu.be/zkU6Ok44_CI \n\n THENX (Chris Heria) Tutorial (until 9:30): \n https://youtu.be/GdISLQcG8BA" 
+    },
+    "Clap Push-Up": {
+        "Prerequisites": "Here are some prerequisite skills we recommend you already can complete with relative ease before you attempt this skill: \n\n 1. 10-15 perfect form push-ups \n\n Once you can complete these prerequisites, go on to the progressions section to learn the movement! Good Luck!",
+        "How to Do the Skill": "1. Start in the same starting position as the standard push-up \n\n 2. Lower your body down to an inch off the ground with your elbows in \n\n 3. Push your body upward as hard as you can with your arms to lift your hands off the ground \n 4. Clap while your hands are in the air \n\n 5. Catch yourself in the low push-up position with your body an inch off the ground",
+        "Progressions": "These progressions will be listed from easiest to hardest. \n\n 1. Incline Clap Push-Up: Follow the same form as the standard clap push-up but with your hands on a surface 2-3 feet off the ground (such as a chair or table) \n\n 2. Resistance Band Push-Ups: Wrap a light to medium weight resistance band around your shoulders and hooking the band to your hands to give yourself more weight on the push-up \n\n 3. Hand Lift Push-Ups: Perform a standard clap push-up but push as hard as you can to lift your hands off the ground instead of clapping \n\n In all of these progressions, try not to drive your hips up and instead only push from your shoulders to give yourself enough time to clap."
+    },
+    "Archer Push-Up": {
+        "Prerequisites": "Here are some prerequisite skills we recommend you already can complete with relative ease before you attempt this skill: \n\n 1. 10-15 perfect form push-ups \n\n Once you can complete these prerequisites, go on to the progressions section to learn the movement! Good Luck!",
+        "How to Do the Skill": "1. Start in the same starting position as the standard push-up but with your hands 2 shoulder-widths apart \n\n 2. Keep one arm completely straight while bending the other arm to lower your body down to an inch off the ground, keeping the bent arm's elbow in \n\n 3. Push your body back up with only your bent arm, keeping the other arm locked out \n\n Throughout the entire movement, remember to keep your body completely straight from shoulders to toes. Also, because this is an unbalanced movement, train this push up alternating which arm is pushing to balance your strength between your two arms.",
+        "Progressions": "These progressions will be listed from easiest to hardest. \n\n 1. One Arm High Plank: Perform a high plank (only hands on floor, arms straight) but with your feet shoulder width apart, shift your weight to one of your arms, lift the other hand off of the ground, and hold (30-45 sec) \n\n 2. Archer Push-Up Negatives: Start in the same starting position as the standard archer push-up, perform step 2 as slow as you can, controlling your weight all the way to the ground, reset back to the starting position and repeat \n\n We cannot say this enough, keep your body completely straight form shoulders to toes in all of these progressions.",
+        "Video Tutorials": "Here are some links to helpful video tutorials of the archer push-up: \n\n Andrew Alinda Tutorial: \n https://youtu.be/MxVbNel13Ek"
+    },
+    "Planche Lean": {
+        "Question": "Answer"
+    },
+    "Pike Hold": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "L-Sit": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "V-Sit": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Manna": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Back Clap Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Superman Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Pike Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Tuck Bent-Arm Press to Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle Bent-Arm Press to Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full Bent-Arm Press to Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Tuck Straight-Arm Press to Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle Straight-Arm Press to Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full Straight-Arm Press to Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Wall Handstand Hold": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Wall Handstand Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Basic Handstand Shapes": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Stag Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Diamond Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Tuck Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Advanced Handstand Shapes": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "One Arm Fingertip Support Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle One Arm Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full One Arm Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Seven Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Hollow Back Handstand": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Handstand Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Tuck Planche": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Advanced Tuck Planche": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Single Leg Planche": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle Planche": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full Planche": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Pseudo Planche Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle 90 Degree Hold": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full 90 Degree Hold": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Tuck Planche Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Advanced Tuck Planche Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Single Leg Planche Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle Planche Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full Planche Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "One Arm Push-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Chin-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Assisted One Arm Chin-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "One Arm Chin-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Pull-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "High Pull-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Archer Pull-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Assisted One Arm Pull-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "One Arm Pull-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Muscle-Up": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Tuck Front Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Advanced Tuck Front Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Single Leg Front Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle Front Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full Front Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Tuck Front Lever Pull-Up": {
+        "Question:": 
+            "Answer"
+            
+        
+    },
+    "Advanced Tuck Front Lever Pull-Up": {
+        "Question:": 
+            "Answer"
+            
+        
+    },
+    "Single Leg Front Lever Pull-Up": {
+        "Question:": 
+            "Answer"
+            
+        
+    },
+    "Straddle Front Lever Pull-Up": {
+        "Question:": 
+            "Answer"
+            
+        
+    },
+    "Full Front Lever Pull-Up": {
+        "Question:": 
+            "Answer"
+            
+        
+    },
+    "Tuck Back Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Advanced Tuck Back Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Single Leg Back Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Straddle Back Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Full Back Lever": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Squat": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Squat Jump": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Pistol Squat": {
+        "Question": 
+            "Answer"
+            
+        
+    },
+    "Dragon Squat": {
+        "Question": 
+            "Answer"
+            
+        
+    }
+}
